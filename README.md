@@ -43,7 +43,7 @@ graph LR
 ## ✨ Key Features & Modules
 
 ## ✨ Features & Capabilities
->>>>>>> 9734792 (docs: streamline and improve README readability)
+
 
 ### 1. 📊 Automated Profiling & Data Stories
 - **Instant Health Check:** Automatic row/column counts, missing value heatmaps, duplicates, outlier detection, and data type inference.
@@ -116,7 +116,7 @@ graph LR
 - **Frontend:** React 19, Vite, Recharts, Axios, Neumorphic Glass UI
 - **Backend:** FastAPI, Uvicorn, Pandas, NumPy, Pydantic
 - **AI / LLM:** OpenRouter API with context-aware prompts & NLP fallbacks
->>>>>>> 9734792 (docs: streamline and improve README readability)
+
 
 ---
 
