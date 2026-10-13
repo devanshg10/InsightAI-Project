@@ -10,7 +10,7 @@
 
 ### 🌐 Live Demo
 
-🔗 **Live Demo:** [Explore InsightAI](https://insightai-nine.vercel.app)
+🔗 **Project Link:** [InsightAI Live](https://insightai-nine.vercel.app)
 
 ---
 
