@@ -117,5 +117,5 @@ Create interactive charts with zoom, pan, fullscreen inspection, and multi-forma
 | **Name** | Devansh Gupta | Krishna Verma |
 | **Roll No.** | 1240258159 | 1240258236 |
 | **Batch** | BCADS-33 | BCADS-33 |
-| **University** | Babu Banarasi Das University | Babu Banarasi Das University |
+| **University** | SoCA, Babu Banarasi Das University | SoCA, Babu Banarasi Das University |
 | **Subject** | Predictive Analytics | Predictive Analytics |
