@@ -29,8 +29,6 @@
 
 ---
 
-<<<<<<< HEAD
-
 ## 🏗 Architecture & Tech Stack
 
 ```mermaid
@@ -43,7 +41,7 @@ graph LR
 
 
 ## ✨ Key Features & Modules
-=======
+
 ## ✨ Features & Capabilities
 >>>>>>> 9734792 (docs: streamline and improve README readability)
 
@@ -92,7 +90,6 @@ Create interactive charts with zoom, pan, fullscreen inspection, and multi-forma
 
 ---
 
-<<<<<<< HEAD
 * **Frontend:**
   * **React 19** & **Vite**
   * **Recharts** (Interactive charting engine)
@@ -103,7 +100,7 @@ Create interactive charts with zoom, pan, fullscreen inspection, and multi-forma
   * **Pandas** & **NumPy** (Vectorized data processing and statistical analysis)
   * **Pydantic** (Request and schema validation)
   * **OpenRouter / LLM APIs** (Context-aware natural language processing with deterministic NLP fallbacks)
-=======
+
 ## 🏗 Architecture & Tech Stack
 
 ```mermaid
