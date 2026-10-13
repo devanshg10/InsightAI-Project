@@ -88,37 +88,13 @@ graph LR
   * **OpenRouter / LLM APIs** (Context-aware natural language processing with deterministic NLP fallbacks)
 
 ---
+## 👨‍💻 Built By:
 
-## 💻 Local Development Setup
+| **Field** | **Details** |
+|---|---|
+| **Student** | Devansh Gupta, Krishna Verma |
+| **Roll No** | 1240258159, 1240258236 |
+| **Batch** | BCADS-33 |
+| **University** | Babu Banarasi Das University |
+| **Subject** | Predictive Analytics |
 
-### Prerequisites
-* **Node.js** (v18+) & **npm**
-* **Python** (3.10+)
-
-### 1. Backend Setup
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
-```
-
-### 2. Frontend Setup
-```bash
-cd frontend
-npm install
-npm run dev
-```
-Open **`http://localhost:5173`** in your browser.
-
----
-
-## 🔒 Security & Privacy Notice
-* Sensitive environment keys (`OPENROUTER_API_KEY`) and Python virtual environments (`venv/`) are strictly kept out of version control via `.gitignore`.
-* Full raw datasets are never sent to external LLMs; only lightweight statistical column summaries and schema metadata are shared for interpretation.
-
----
-
-## 📄 License
-This project is developed for academic evaluation and semester project presentation.
