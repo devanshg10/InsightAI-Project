@@ -25,6 +25,18 @@
 
 ---
 
+
+## 🏗 Architecture & Tech Stack
+
+```mermaid
+graph LR
+    A["Frontend Client (React 19 + Vite)"] -->|REST API Requests| B["Backend Server (FastAPI + Uvicorn)"]
+    B --> C["Data Processing (Pandas + NumPy)"]
+    B --> D["LLM Service (OpenRouter / AI Models)"]
+    A --> E["Data Visualizations (Recharts + SVG)"]
+```
+
+
 ## ✨ Key Features & Modules
 
 ### 1. 📊 Automated Workspace & Data Profiling
@@ -67,16 +79,6 @@ Interactive visualization studio supporting **7 statistical chart types** with f
 * **Live Pandas Console:** Interactive execution sandbox to run arbitrary Pandas commands (`df.describe()`, `df.groupby()`, etc.) directly against the uploaded DataFrame.
 
 ---
-
-## 🏗 Architecture & Tech Stack
-
-```mermaid
-graph LR
-    A["Frontend Client (React 19 + Vite)"] -->|REST API Requests| B["Backend Server (FastAPI + Uvicorn)"]
-    B --> C["Data Processing (Pandas + NumPy)"]
-    B --> D["LLM Service (OpenRouter / AI Models)"]
-    A --> E["Data Visualizations (Recharts + SVG)"]
-```
 
 * **Frontend:**
   * **React 19** & **Vite**
