@@ -102,8 +102,8 @@ Create interactive charts with zoom, pan, fullscreen inspection, and multi-forma
 
 ### 💻 Technologies
 
-- **Frontend:** React 19, Vite, Recharts, Axios, Neumorphic Glass UI
-- **Backend:** FastAPI, Uvicorn, Pandas, NumPy, Pydantic
+- **Frontend:** React 19, Vite, Recharts, Axios
+- **Backend:** Python FastAPI, Pandas, NumPy, Pydantic, Uvicorn
 - **AI / LLM:** OpenRouter API with context-aware prompts & NLP fallbacks
 
 
