@@ -11,7 +11,7 @@
 [![Live Application](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20InsightAI%20on%20Vercel-5281ee?style=for-the-badge&logo=vercel&logoColor=white)](https://your-insightai.vercel.app)
 [![Backend API](https://img.shields.io/badge/⚡%20Backend%20API-FastAPI%20on%20Render-001847?style=for-the-badge&logo=render&logoColor=white)](https://your-backend.onrender.com)
 
-**👉 [LIVE PROJECT](https://insightai-nine.vercel.app) 👈**
+**👉 [ Click here to visit the LIVE PROJECT](https://insightai-nine.vercel.app) 👈**
 
 </div>
 
@@ -90,11 +90,10 @@ graph LR
 ---
 ## 👨‍💻 Built By:
 
-| **Field** | **Details** |
-|---|---|
-| **Student** | Devansh Gupta | Krishna Verma |
-| **Roll No** | 1240258159 | 1240258236 |
-| **Batch** | BCADS-33 |
-| **University** | Babu Banarasi Das University |
-| **Subject** | Predictive Analytics |
-
+| **Field**      | **Student 1**                  | **Student 2**  |
+|----------------|--------------------------------|----------------|
+| **Name**       | Devansh Gupta                  | Krishna Verma  |
+| **Roll No**    | 1240258159                     | 1240258236     |
+| **Batch**      | BCADS-33                       | BCADS-33       |
+| **University** | Babu Banarasi Das University   | Babu Banarasi Das University |
+| **Subject**    | Predictive Analytics           | Predictive Analytics |
