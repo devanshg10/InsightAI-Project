@@ -40,9 +40,7 @@ graph LR
 ```
 
 
-## ✨ Key Features & Modules
-
-## ✨ Features & Capabilities
+## ✨ Key Features & Capabilities
 
 
 ### 1. 📊 Automated Profiling & Data Stories
@@ -101,15 +99,6 @@ Create interactive charts with zoom, pan, fullscreen inspection, and multi-forma
   * **Pydantic** (Request and schema validation)
   * **OpenRouter / LLM APIs** (Context-aware natural language processing with deterministic NLP fallbacks)
 
-## 🏗 Architecture & Tech Stack
-
-```mermaid
-graph LR
-    A["Frontend (React 19 + Vite)"] -->|REST API| B["Backend (FastAPI + Uvicorn)"]
-    B --> C["Data Processing (Pandas + NumPy)"]
-    B --> D["AI Service (OpenRouter / LLM APIs)"]
-    A --> E["Visualizations (Recharts + SVG)"]
-```
 
 ### 💻 Technologies
 
