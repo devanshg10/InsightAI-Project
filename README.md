@@ -1,6 +1,6 @@
 # InsightAI — Intelligent Data Analytics & Preprocessing Studio
 
-> **Transform raw datasets into actionable executive insights, clean data with interactive Pandas controls, and generate rich statistical visualizations with AI guidance.**
+> **Trying to make the Preprocessing Simple.**
 
 ---
 
