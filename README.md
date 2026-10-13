@@ -10,11 +10,7 @@
 
 ### 🌐 Live Demo
 
-<p align="center">
-  <a href="https://insightai-nine.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Project-Click%20Here%20to%20Open-5281ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
+🔗 **Live Demo:** [Explore InsightAI](https://insightai-nine.vercel.app)
 
 ---
 
