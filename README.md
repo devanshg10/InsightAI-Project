@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="InsightAI Banner" width="100%" />
+  <img src="banner.png" alt="InsightAI Banner" width="100%" />
 </p>
 
 # InsightAI — Intelligent Data Analytics & Preprocessing Studio
